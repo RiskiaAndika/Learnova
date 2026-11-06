@@ -14,7 +14,7 @@ Versi ini menambahkan alur kelas, pendaftaran murid, jadwal, kuis, reward, leade
 3. Jika kamu sudah memakai database lama, buka phpMyAdmin → database `learnova` → tab Import → impor `database-upgrade.sql` **satu kali saja**.
 4. Jika database belum pernah dibuat, impor `database.sql` terlebih dahulu, lalu impor `database-upgrade.sql`.
 5. Pastikan Apache dan MySQL aktif.
-6. Buka `http://localhost/Learnova/`.
+6. Buka `http://localhost/Learnova/index.html`.
 7. Login menggunakan akun murid atau pengajar yang sudah terdaftar.
 
 ## Alur Pengajar
